@@ -84,6 +84,10 @@ Cloud / **Futures 2**<br />
 10/18 Cloud / **Environments**
 * Jennifer Gabrys, *Program Earth* (selections)
 * Nicole Starosielski and Janet Walker, Eds., *Sustainable Media* (selections)
+ * Janet Walker and Nicole Starosielski, "Introduction"
+ * Nicole Starosielski, "Pipeline Ecologies: Rural Entanglements of Fiber-Optic Cables"
+ * Rahul Mukherjee, "Mediating Infrastructures: (Im)Mobile Toxicity and Cell Antenna Publics"
+ * Jennifer Gabrys, "Re-thingfying the Internet of Things"
 * Sy Taffel, “Escaping Attention: Digital Media Hardware, Materiality And Ecological Cost.” Culture Machine, Vol 13 (2012).
 * Shannon Mattern, “Cloud and Field.” *Places*. August 2016. https://placesjournal.org/article/cloud-and-field/ 
 
