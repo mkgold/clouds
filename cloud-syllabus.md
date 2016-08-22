@@ -161,4 +161,4 @@ Your final paper (15-20 pages for 3-credit students, 20-25 pages for 4-credit st
 Should you wish to create a digital project of some kind for this class rather than a final paper, please meet with Prof. Gold to discuss.
 
 ##Acknowledgements##
-I am grateful to Shannon Mattern and Matt Kirschenbaum for their suggestions for this syllabus.
+I am grateful to Shannon Mattern and Matt Kirschenbaum for their suggestions on a draft version of this syllabus.
