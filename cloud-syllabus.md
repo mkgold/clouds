@@ -67,7 +67,7 @@ Cloud / **Futures 2**<br />
 * Nicole Starosielski, “Fixed Flow: Undersea Cables as Media Instructure” 
 * Jennifer Holt and Patrick Vonderau, “‘Where the Internet Lives”: Data Centers” 
 * Shannon Mattern, “Deep Time of Media Infrastructure”
-* Orit Halpern, “Cloudy Architectures,” *continent* 4.3 (2015) http://www.continentcontinent.cc/index.php/continent/article/view/205 
+* Orit Halpern, “Cloudy Architectures,” *continent* 4.3 (2015) http://www.continentcontinent.cc/index.php/continent/article/view/205 <br />
 *Recommended (not required)*<br />
 * Faisal Khan, “How are major undersea cables laid in the ocean?” *Quora*. https://www.quora.com/How-are-major-undersea-cables-laid-in-the-ocean?redirected_qid=2316974 
 * Neal Stephenson, “Mother Earth Mother Board.” *Wired*. 1 December 1996. http://www.wired.com/1996/12/ffglass/ 
