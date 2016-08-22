@@ -14,6 +14,7 @@ Room 4108.01
 
 This course explores the cloud as condition, metaphor, and infrastructure of the modern web. Our aim will be to come to know and theorize the materiality of the network in ways that account for not only its presence in the physical world, but also its rootedness in a variety of social and political contexts. We will explore local instantiations of cloud infrastructure in an effort to trace the material nature of the internet; explore fictional, theoretical, and philosophical accounts of the network; look at the environmental consequences of networked infrastructures; and play, when possible, with cloud-based reading and writing practices. By the end of the semester, we will have viewed “the cloud” from a variety of perspectives that reveal it to be not a virtual abstraction, but rather a set of material, social, and political infrastructures embedded in our lives.
 
+##Requirements##
 **Requirements (All Students)**
 * Regular Attendance
 * Completion of all course readings
@@ -39,7 +40,7 @@ Auditors are required to complete all assignments except for the Final Presentat
 Students in the doctoral English program may use the Annotated Bibliography assignment as part of the Portfolio they submit for the program’s First Exam. 
 
 
-**Schedule**
+##Schedule##
 
 8/30	Intro to the class and to each other<br />
 * Ryan S. Jeffery and Boaz Levin, “All That is Solid Melts into Data” (7 min clip) - http://spheres-journal.org/all-that-is-solid-melts-into-data/  
@@ -126,7 +127,7 @@ Cloud / **Futures 2**<br />
 
 
 
-**Assignments:**
+##Assignments##
 
 **Annotated Bibliography & Presentation** <br />
 Sign up:  http://www.SignUpGenius.com/go/4090E4AAFA929A46-clouds <br />
@@ -153,5 +154,5 @@ Your final paper (15-20 pages for 3-credit students, 20-25 pages for 4-credit st
 
 Should you wish to create a digital project of some kind for this class rather than a final paper, please meet with Prof. Gold to discuss.
 
-**Acknowledgements:**<br />
+##Acknowledgements##
 I am grateful to Shannon Mattern and Matt Kirschenbaum for their suggestions for this syllabus.
