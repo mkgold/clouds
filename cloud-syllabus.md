@@ -15,10 +15,10 @@ Room 4108.01
 
 This course explores the cloud as condition, metaphor, and infrastructure of the modern web. Our aim will be to come to know and theorize the materiality of the network in ways that account for not only its presence in the physical world, but also its rootedness in a variety of social and political contexts. We will explore local instantiations of cloud infrastructure in an effort to trace the material nature of the internet; explore fictional, theoretical, and philosophical accounts of the network; look at the environmental consequences of networked infrastructures; and play, when possible, with cloud-based reading and writing practices. By the end of the semester, we will have viewed “the cloud” from a variety of perspectives that reveal it to be not a virtual abstraction, but rather a set of material, social, and political infrastructures embedded in our lives.
 
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#requirements">Requirements</a>
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#schedule">Schedule</a>
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#assignments">Assignments</a>
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#acknowledgements">Acknowledgements<a>
+<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#requirements">Requirements</a> <br />
+<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#schedule">Schedule</a> <br />
+<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#assignments">Assignments</a> <br />
+<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#acknowledgements">Acknowledgements<a> <br />
 
 ##Requirements##
 **Requirements (All Students)**
