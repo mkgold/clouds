@@ -45,6 +45,12 @@ Auditors are required to complete all assignments except for the Final Presentat
 
 Students in the doctoral English program may use the Annotated Bibliography assignment as part of the Portfolio they submit for the program’s First Exam. 
 
+**Grading**
+* Class Participation: 20%
+* Annotated Bibliography and Presentation: 20%
+* Blog posts and Cloud Text Experiment: 10%
+* Final Paper or Project: 50% 
+
 
 ##Schedule##
 
@@ -95,6 +101,8 @@ Cloud / **Futures 2**<br />
 * Benjamin H. Bratton, *The Stack* (selections)
 * Helga Tawil-Souri, “Cellular Borders: Dis/Connecting Phone Calls in Israel/Palestine” 
 * Boaz Levin and Ryan Jeffery, “Lost in the Cloud: The Representation of Networked Infrastructure and its Discontents.” Spheres 3. http://spheres-journal.org/lost-in-the-cloud-the-representation-of-networked-infrastructure-and-its-discontents-2/ 
+* Gilles Deleuze, "Postscript on the Societies of Control." **October**, Vol. 59 (Winter, 1992), pp. 3-7.
+* Finn Brunton and Helen Nissenbaum, **Obfuscation: A User's Guide for Privacy and Protest** (selections)
       
 11/1  Cloud / **Labor**
 * Trebor Scholz, Ed., *Digital Labor: The Internet as Playground and Factory* (selections)
@@ -122,6 +130,7 @@ Cloud / **Futures 2**<br />
 * Kenneth Goldsmith, **Uncreative Writing** (selections)
 * Mark Sample, “A protest bot is a bot so specific you can’t mistake it for bullshit: A Call for Bots of Conviction” https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.r95kew4fp 
 * Rob Dubbin, “The Rise Of Twitter Bots.” *The New Yorker*. 14 November 2013. http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots 
+* Gilles Deleuze and Felix Guattari, **a thousand plateaus** (selections) 
 
 11/29	Cloud / **Vision**
 * Jonathan Crary, *24/7* (selections)
