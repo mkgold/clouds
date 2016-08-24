@@ -18,7 +18,7 @@ This course explores the cloud as condition, metaphor, and infrastructure of the
 <a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#requirements">Requirements</a> <br />
 <a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#schedule">Schedule</a> <br />
 <a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#assignments">Assignments</a> <br />
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#acknowledgements">Acknowledgements<a> <br />
+<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#acknowledgements">Acknowledgements</a> <br />
 
 ##Requirements##
 **Requirements (All Students)**
