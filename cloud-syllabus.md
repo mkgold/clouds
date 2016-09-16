@@ -110,7 +110,12 @@ Cloud / **Futures 2**<br />
 * Hitlin, Paul. “Research in the Crowdsourcing Age, a Case Study.” Pew Research Center. July 2016. http://www.pewinternet.org/2016/07/11/research-in-the-crowdsourcing-age-a-case-study/
 * Andrew Russell, “Hail the Maintainers.” *Aeon*. 7 April 2016. https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more 
 
-11/8	 Cloud / **Infrastructures 3** <br />
+11/8	Cloud / **Networks** <br />
+* Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics* (selections)
+* Alexander Galloway, *Protocol: How Control Exists After Decentralization* (selections)
+
+11/15	  Cloud / **Infrastructures 3** <br />
+**Final paper proposal Due** <br />
 **SITE VISIT TBD** <br />
 * Kazys Varnelis, “Centripetal City,” *Cabinet* 17 (Spring 2004/5) 
 * Andrew Blum, Tubes (selections) 
@@ -118,11 +123,6 @@ Cloud / **Futures 2**<br />
 * Burrington, Ingrid. *Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure*
 * Mendelsohn, Ben. “Bundled, Buried & Behind Closed Doors” https://vimeo.com/30642376
 * Emily S. Rueb and Eiko Ojala. “New York 101: Why are the streets always under construction?” New York Times. 18 August 2016. http://www.nytimes.com/interactive/2016/08/18/nyregion/new-york-101-streets-repair-and-maintenance.html 
-
-11/15	  Cloud / **Networks** <br />
-**Final paper proposal Due** <br />
-* Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics* (selections)
-* Alexander Galloway, *Protocol: How Control Exists After Decentralization* (selections)
 
 11/22	      Cloud / **Writing** <br />
 **Cloud Text Experiment Due** <br />
