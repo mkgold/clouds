@@ -116,7 +116,7 @@ Cloud / **Futures 2**<br />
 
 11/15	  Cloud / **Infrastructures 3** <br />
 **Final paper proposal Due** <br />
-**SITE VISIT TBD** <br />
+**SITE VISIT WITH ANDREW BLUM (Location TBD)** <br />
 * Kazys Varnelis, “Centripetal City,” *Cabinet* 17 (Spring 2004/5) 
 * Andrew Blum, Tubes (selections) 
 * Shannon Mattern. “Infrastructural Tourism.” *Places*. July 2013. https://placesjournal.org/article/infrastructural-tourism/ 
