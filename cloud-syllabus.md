@@ -86,6 +86,8 @@ Cloud / **Futures 2**<br />
 * John Durham Peters, *The Marvelous Clouds* (selections)
 * Adrian Mackenzie, *Wirelessness* (selections)
 * Jane Bennett, *Vibrant Matter* (selections)
+* Bruno Latour, *Reassembling the Social* (selections)
+* Gilles Deleuze and Felix Guattari, *a thousand plateaus* (selections) 
 
 10/18 Cloud / **Environments**
 * Jennifer Gabrys, *Program Earth* (selections)
