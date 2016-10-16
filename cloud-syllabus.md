@@ -103,8 +103,8 @@ Cloud / **Futures 2**<br />
 * Benjamin H. Bratton, *The Stack* (selections)
 * Helga Tawil-Souri, “Cellular Borders: Dis/Connecting Phone Calls in Israel/Palestine” 
 * Boaz Levin and Ryan Jeffery, “Lost in the Cloud: The Representation of Networked Infrastructure and its Discontents.” Spheres 3. http://spheres-journal.org/lost-in-the-cloud-the-representation-of-networked-infrastructure-and-its-discontents-2/ 
-* Gilles Deleuze, "Postscript on the Societies of Control." **October**, Vol. 59 (Winter, 1992), pp. 3-7.
-* Finn Brunton and Helen Nissenbaum, **Obfuscation: A User's Guide for Privacy and Protest** (selections)
+* Gilles Deleuze, "Postscript on the Societies of Control." *October*, Vol. 59 (Winter, 1992), pp. 3-7.
+* Finn Brunton and Helen Nissenbaum, *Obfuscation: A User's Guide for Privacy and Protest* (selections)
       
 11/1  Cloud / **Labor**
 * Trebor Scholz, Ed., *Digital Labor: The Internet as Playground and Factory* (selections)
