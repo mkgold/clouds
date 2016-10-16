@@ -128,8 +128,8 @@ Cloud / **Futures 2**<br />
 
 11/22	      Cloud / **Writing** <br />
 **Cloud Text Experiment Due** <br />
-* Marjorie Perloff, **Unoriginal Genius** (selections)
-* Kenneth Goldsmith, **Uncreative Writing** (selections)
+* Marjorie Perloff, *Unoriginal Genius* (selections)
+* Kenneth Goldsmith, *Uncreative Writing* (selections)
 * Mark Sample, “A protest bot is a bot so specific you can’t mistake it for bullshit: A Call for Bots of Conviction” https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.r95kew4fp 
 * Rob Dubbin, “The Rise Of Twitter Bots.” *The New Yorker*. 14 November 2013. http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots 
 * Gilles Deleuze and Felix Guattari, *a thousand plateaus* (selections) 
