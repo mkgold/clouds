@@ -96,7 +96,7 @@ Cloud / **Futures 2**<br />
  * Nicole Starosielski, "Pipeline Ecologies: Rural Entanglements of Fiber-Optic Cables"
  * Rahul Mukherjee, "Mediating Infrastructures: (Im)Mobile Toxicity and Cell Antenna Publics"
  * Jennifer Gabrys, "Re-thingfying the Internet of Things"
-* Sy Taffel, “Escaping Attention: Digital Media Hardware, Materiality And Ecological Cost.” Culture Machine, Vol 13 (2012).
+* Sy Taffel, “Escaping Attention: Digital Media Hardware, Materiality And Ecological Cost.” Culture Machine, Vol 13 (2012). http://www.culturemachine.net/index.php/cm/article/view/468
 * Shannon Mattern, “Cloud and Field.” *Places*. August 2016. https://placesjournal.org/article/cloud-and-field/ 
 
 10/25 Cloud / **Sovereignties**
