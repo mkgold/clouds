@@ -115,6 +115,7 @@ Cloud / **Futures 2**<br />
 11/8	Cloud / **Networks** <br />
 * Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics* (selections)
 * Alexander Galloway, *Protocol: How Control Exists After Decentralization* (selections)
+* Alexander Galloway and Eugene Thacker, *The Exploit: A Theory of Networks* (selections)
 
 11/15	  Cloud / **Infrastructures 3** <br />
 **Final paper proposal Due** <br />
